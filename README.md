@@ -43,3 +43,5 @@ For educational purposes only.
 ## **Philosophy**
 Reset the past, access the future
 
+## **License**
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
